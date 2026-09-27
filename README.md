@@ -24,5 +24,5 @@ Here are some of the public projects I've been working on:
 ## ![Tech & Interests](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=58A6FF&width=300&height=36&repeat=false&lines=Tech+%26+Interests)
 
 - **Languages**: Python, JavaScript, Java, SQL, HTML, CSS, React
-- **Focus**: AI Engineering, Machine Learning, Spec-Driven Development (SDD), Test-Driven Development (TDD), Data Analysis, Building Automation, Software Development
+- **Focus**: AI Engineering, Cyber Security, Machine Learning, Spec-Driven Development (SDD), Test-Driven Development (TDD), Data Analysis, Building Automation, Software Development
 - **Interests**: AI, Robotics, Computational Neuroscience, Smart Buildings, Automotive, Marathon Running, MMA, Boxing, Strength Training
