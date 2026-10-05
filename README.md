@@ -10,6 +10,7 @@ I'm a developer building at the intersection of software, AI, and building syste
 
 Here are some of the public projects I've been working on:
 
+- [ITAI 1371 Midterm: Stroke Prediction EDA](https://github.com/ClayClimate-AI/itai-1371-midterm-stroke-eda) ([live site](https://itai-1371-midterm-stroke-eda.netlify.app)): A reproducible pipeline that takes the Kaggle stroke dataset from raw CSV to a balanced, model ready training set using SMOTE, built through multi agent orchestration with a Kiro CLI builder and five subagents.
 - [HVAC Failure Prediction](https://neural-network-preditctions.netlify.app): An interactive neural network simulation that predicts whether a commercial rooftop unit will fail within 30 days, visualizing forward propagation and backpropagation. Built with Three.js and GSAP.
 - [hvac-checklist-tool](https://github.com/ClayClimate-AI/hvac-checklist-tool): A checklist app for HVAC technicians to confirm tools and parts before leaving for a job site, reducing wasted trips caused by work orders that don't match on-site conditions.
 - [HVAC Job Finder](https://hvac-job-finder.netlify.app): A job search dashboard that filters Houston-area HVAC listings by role, including controls/BAS, technician, apprentice, and refrigeration.
